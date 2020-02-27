@@ -19,7 +19,12 @@ import { KiranComponent } from './kiran/kiran.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    KiranComponent,
+    DhruvitComponent,
+    AmitChauhanComponent,
+    SamipComponent,
+    ShivComponentComponent
   ],
   providers: [],
   bootstrap: [AppComponent]
