@@ -8,6 +8,7 @@ import { SamipComponent } from './samip/samip.component';
 
 import { AmitChauhanComponent } from './amit-chauhan/amit-chauhan.component';
 import { DhruvitComponent } from './dhruvit/dhruvit.component';
+import { KiranComponent } from './kiran/kiran.component';
 
 
 @NgModule({
@@ -17,7 +18,8 @@ import { DhruvitComponent } from './dhruvit/dhruvit.component';
     SamipComponent,
 
     AmitChauhanComponent,
-    DhruvitComponent
+    DhruvitComponent,
+    KiranComponent
 
   ],
   imports: [
